@@ -1,1 +1,3 @@
-
+check Dkim key 
+```bash
+sudo opendkim-testkey -d bikoallinone.com -s mail -k /etc/opendkim/mail.key
