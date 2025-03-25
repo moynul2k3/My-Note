@@ -14,3 +14,5 @@ hello biko
 ki kbr
 
 eito aci
+
+tomar bolo
