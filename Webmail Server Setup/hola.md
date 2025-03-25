@@ -18,3 +18,6 @@ kola hola
 ami valo
 
 kono lav nai
+git nai hoye jabe
+
+ki koro?
