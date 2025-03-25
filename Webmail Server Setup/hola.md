@@ -16,3 +16,4 @@ ki kbr
 eito aci
 
 amio valo
+tomar bolo
